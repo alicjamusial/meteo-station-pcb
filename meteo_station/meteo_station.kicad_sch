@@ -1228,7 +1228,7 @@
     (uuid 93a49863-00ee-408b-9e67-37bd2abd68da)
     (property "Reference" "U2" (id 0) (at 107.95 41.91 0))
     (property "Value" "ESP32-WROOM" (id 1) (at 107.95 44.45 0))
-    (property "Footprint" "meteo_station_footprints:BME280" (id 2) (at 106.68 53.34 0)
+    (property "Footprint" "meteo_station_footprints:ESP32-WROOM" (id 2) (at 106.68 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 106.68 53.34 0)
@@ -1448,7 +1448,7 @@
     (property "Value" "BH1750" (id 1) (at 167.64 46.9899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "meteo_station_footprints:BME280" (id 2) (at 162.56 43.18 0)
+    (property "Footprint" "meteo_station_footprints:BH1750" (id 2) (at 162.56 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 162.56 43.18 0)
@@ -1509,13 +1509,13 @@
       (reference "U1") (unit 1) (value "TP4056") (footprint "meteo_station_footprints:BME280")
     )
     (path "/93a49863-00ee-408b-9e67-37bd2abd68da"
-      (reference "U2") (unit 1) (value "ESP32-WROOM") (footprint "meteo_station_footprints:BME280")
+      (reference "U2") (unit 1) (value "ESP32-WROOM") (footprint "meteo_station_footprints:ESP32-WROOM")
     )
     (path "/dfceaf99-0117-4f2d-8240-339c614bf0fc"
       (reference "U3") (unit 1) (value "DS18B20") (footprint "Package_TO_SOT_THT:TO-92_Inline")
     )
     (path "/ed6dd4e3-cfe6-415c-94e1-38553a3a4527"
-      (reference "U4") (unit 1) (value "BH1750") (footprint "meteo_station_footprints:BME280")
+      (reference "U4") (unit 1) (value "BH1750") (footprint "meteo_station_footprints:BH1750")
     )
     (path "/e68039ac-75c7-42b9-b4c3-f36337a478dc"
       (reference "U5") (unit 1) (value "BME280") (footprint "meteo_station_footprints:BME280")

@@ -1,4 +1,4 @@
-19797495091764701
+19800781185694051
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84476,9 +84476,23 @@ varistor SIOV
 2
 2
 meteo_station_footprints
+BH1750
+
+
+0
+5
+5
+meteo_station_footprints
 BME280
 
 
 0
+4
+4
+meteo_station_footprints
+ESP32-WROOM
+
+
 0
-0
+30
+15
