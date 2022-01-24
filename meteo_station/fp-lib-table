@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "meteo_station_footprints")(type "KiCad")(uri "${KIPRJMOD}/meteo-station-footprints/meteo_station_footprints.pretty")(options "")(descr ""))
+)
