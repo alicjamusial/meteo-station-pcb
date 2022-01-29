@@ -1738,7 +1738,7 @@
     (uuid 685a39c3-6e72-4542-9e1d-6357409d8729)
     (property "Reference" "D2" (id 0) (at 40.64 67.31 0))
     (property "Value" "D_Schottky" (id 1) (at 40.64 74.93 0))
-    (property "Footprint" "Diode_SMD:D_SMB_Handsoldering" (id 2) (at 40.64 71.12 0)
+    (property "Footprint" "Diode_SMD:D_SMB" (id 2) (at 40.64 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 40.64 71.12 0)
@@ -1961,7 +1961,7 @@
     (uuid cd3aea37-37f7-4673-bd53-2b06ffe90909)
     (property "Reference" "U2" (id 0) (at 123.19 17.78 0))
     (property "Value" "LF33_TO220" (id 1) (at 123.19 20.32 0))
-    (property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical" (id 2) (at 123.19 18.415 0)
+    (property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown" (id 2) (at 123.19 18.415 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf" (id 3) (at 123.19 25.4 0)
@@ -2071,7 +2071,7 @@
     (uuid e7b413b3-1f93-48aa-a026-394b6c5972c0)
     (property "Reference" "D1" (id 0) (at 40.64 52.07 0))
     (property "Value" "D_Schottky" (id 1) (at 40.64 59.69 0))
-    (property "Footprint" "Diode_SMD:D_SMB_Handsoldering" (id 2) (at 40.64 55.88 0)
+    (property "Footprint" "Diode_SMD:D_SMB" (id 2) (at 40.64 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 40.64 55.88 0)
@@ -2169,10 +2169,10 @@
       (reference "C3") (unit 1) (value "2.2uF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A")
     )
     (path "/e7b413b3-1f93-48aa-a026-394b6c5972c0"
-      (reference "D1") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB_Handsoldering")
+      (reference "D1") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB")
     )
     (path "/685a39c3-6e72-4542-9e1d-6357409d8729"
-      (reference "D2") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB_Handsoldering")
+      (reference "D2") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB")
     )
     (path "/ea78ddbc-2970-428e-b50b-675425fbb699"
       (reference "R1") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -2202,7 +2202,7 @@
       (reference "U1") (unit 1) (value "TP4056") (footprint "meteo_station_footprints:TP4056")
     )
     (path "/cd3aea37-37f7-4673-bd53-2b06ffe90909"
-      (reference "U2") (unit 1) (value "LF33_TO220") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+      (reference "U2") (unit 1) (value "LF33_TO220") (footprint "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown")
     )
     (path "/93a49863-00ee-408b-9e67-37bd2abd68da"
       (reference "U3") (unit 1) (value "ESP32-WROOM") (footprint "meteo_station_footprints:ESP32-WROOM")
