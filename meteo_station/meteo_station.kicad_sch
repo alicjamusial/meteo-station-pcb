@@ -2019,7 +2019,7 @@
     (property "Value" "DS18B20" (id 1) (at 182.88 77.4699 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (id 2) (at 201.93 82.55 0)
+    (property "Footprint" "meteo_station_footprints:TO-92_Inline" (id 2) (at 201.93 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf" (id 3) (at 180.34 69.85 0)
@@ -2208,7 +2208,7 @@
       (reference "U3") (unit 1) (value "ESP32-WROOM") (footprint "meteo_station_footprints:ESP32-WROOM")
     )
     (path "/dfceaf99-0117-4f2d-8240-339c614bf0fc"
-      (reference "U4") (unit 1) (value "DS18B20") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+      (reference "U4") (unit 1) (value "DS18B20") (footprint "meteo_station_footprints:TO-92_Inline")
     )
     (path "/ed6dd4e3-cfe6-415c-94e1-38553a3a4527"
       (reference "U5") (unit 1) (value "BH1750") (footprint "meteo_station_footprints:BH1750")
