@@ -1,4 +1,4 @@
-19805710785466796
+19808999000031867
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84490,6 +84490,13 @@ BME280
 4
 4
 meteo_station_footprints
+BatteryHolder
+18650 Battery Holder (http://www.memoryprotectiondevices.com/datasheets/BK-18650-PC2-datasheet.pdf)
+18650 Battery Holder
+0
+2
+2
+meteo_station_footprints
 ESP32-WROOM
 
 
@@ -84505,6 +84512,13 @@ MTS102
 3
 meteo_station_footprints
 SolarPanel
+
+
+0
+2
+2
+meteo_station_footprints
+SolarPanel_JST
 
 
 0
