@@ -1,4 +1,4 @@
-19813933698103502
+19828739012304292
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84539,6 +84539,48 @@ TP4056
 6
 6
 meteo_station_footprints
+background
+
+
+0
+0
+0
+meteo_station_footprints
+chmurka
+
+
+0
+0
+0
+meteo_station_footprints
+chmurka2
+
+
+0
+0
+0
+meteo_station_footprints
+chmurka2_small
+
+
+0
+0
+0
+meteo_station_footprints
+chmurka3
+
+
+0
+0
+0
+meteo_station_footprints
+chmurka_rotated
+
+
+0
+0
+0
+meteo_station_footprints
 logo
 
 
@@ -84547,6 +84589,27 @@ logo
 0
 meteo_station_footprints
 logo_kicad
+
+
+0
+0
+0
+meteo_station_footprints
+meteo_station
+
+
+0
+0
+0
+meteo_station_footprints
+meteo_station_small
+
+
+0
+0
+0
+meteo_station_footprints
+version
 
 
 0
