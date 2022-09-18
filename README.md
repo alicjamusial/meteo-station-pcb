@@ -58,7 +58,7 @@ I was inspired by solution created by [this guy on Instructables](https://www.in
 
 
 ### ◾ Adjust it to your needs!
-This is an absolutely hobbyst project :) You can use it as a reference to create something loads better.
+This is an absolutely hobbyst project :) You can use it as a reference to create something a lot better.
 
 
 ### ◾ License
