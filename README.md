@@ -1,4 +1,6 @@
-# Meteo station PCB based on ESP32
+# Meteo station PCB based on ESP32 
+![](https://img.shields.io/badge/-METEO%20STATION%20PROJECT%20-f17892)
+
 
 ![image](img/pcb.jpg)
 <p align="center">
@@ -11,14 +13,14 @@
 
 **Meteo station** is my small after-hours project that contains of **three** repositories:
 - Meteo station PCB based on ESP32 (this repo)
-- Meteo station code
-- Meteo station 3D prints
+- [Meteo station code](https://github.com/alicjamusial/meteo-station-code)
+- [Meteo station 3D prints](https://github.com/alicjamusial/meteo-station-3d-print)
 
 As the name suggest, is a DIY self-sufficient weather measuring device. I decided to design it as a PCB board with goldpins to stick-in or stick-out individual components and sensors (ESP32, BME280 etc.) to make it more reusable. It could have - of course - been integrated on board, but it would be more expensive and time-consuming to create.
 
 As you can see - the project is designed with minimal effort 🙂 But works!
 
-> **Warning**
+> **Warning** <br>
 > This is a hobbyist project. I'm not an electronic engineer so I take no responsibility for any possible issues you may encounter :)
 
 
@@ -49,7 +51,7 @@ I was inspired by solution created by [this guy on Instructables](https://www.in
 
 ### ◾ Useful tips
 
-- **important** - it's a good idea to prepare your ESP32 before placing it in the station - I unsoldered all unnecessary components from it to lower the power consumption. You can see more details on [my twitter](https://twitter.com/alicja_musial/status/1494784125051584515),
+- **important!** - it's a good idea to prepare your ESP32 before placing it in the station - I unsoldered all unnecessary components from it to lower the power consumption. You can see more details on [my twitter](https://twitter.com/alicja_musial/status/1494784125051584515),
 - choose the biggest solar panel you can,
 - adjust timings in software to avoid complete discharge of the battery.
 
