@@ -52,6 +52,7 @@ I was inspired by solution created by [this guy on Instructables](https://www.in
 ### ◾ Useful tips
 
 - **important!** - it's a good idea to prepare your ESP32 before placing it in the station - I unsoldered all unnecessary components from it to lower the power consumption. You can see more details on [my twitter](https://twitter.com/alicja_musial/status/1494784125051584515),
+- there are two possibilites to connect a solar panel to the PCB - via mini USB in the TP charger or using SC1 and SC2 connectors - depending on which solar panel you buy,
 - choose the biggest solar panel you can,
 - adjust timings in software to avoid complete discharge of the battery.
 
