@@ -1,5 +1,5 @@
-# Meteo station PCB based on ESP32 
-![](https://img.shields.io/badge/-METEO%20STATION%20PROJECT%20-f17892)
+# METEO STATION – PCB based on ESP32 
+[![](https://img.shields.io/badge/-METEO%20STATION%20PROJECT%20-f17892)](https://alicja.space)
 
 
 ![image](img/pcb.jpg)
